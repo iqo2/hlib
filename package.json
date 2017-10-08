@@ -1,0 +1,29 @@
+{
+  "name": "hlib",
+  "version": "0.0.1",
+  "description": "Adaptive Huffman Decoder (with LZSS)",
+  "main": "index",
+  "scripts": {
+    "test": "mocha test/decode"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/iqo2/hlib.git"
+  },
+  "author": "Ilja Strobbe <ilja@smalltownheroes.be>",
+  "bugs": {
+    "url": "https://github.com/iqo2/hlib/issues"
+  },
+  "devDependencies": {
+    "chai": "~4.1.2",
+    "mocha": "~4.0.1"
+  },
+  "keywords": [
+    "huffman",
+    "adaptive",
+    "lzss",
+    "decoder",
+    "bitstream"
+  ],
+  "dependencies": {}
+}
