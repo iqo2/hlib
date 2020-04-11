@@ -1,6 +1,6 @@
 {
   "name": "hlib",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Adaptive Huffman Decoder (with LZSS)",
   "main": "index",
   "scripts": {
@@ -15,6 +15,7 @@
     "url": "https://github.com/iqo2/hlib/issues"
   },
   "devDependencies": {
+    "@types/node": "^13.11.1",
     "chai": "~4.2.0",
     "mocha": "~7.1.1"
   },
